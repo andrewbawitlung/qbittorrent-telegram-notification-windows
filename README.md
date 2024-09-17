@@ -1,5 +1,5 @@
 # qbittorrent-telegram-notification-windows
-Sends a notification to your Telegram when a download is completed.
+Sends a notification to your Telegram when a download is completed in qbittorrent.
 
 ### pre-requisite:
 
