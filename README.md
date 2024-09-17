@@ -17,7 +17,7 @@ Sends a notification to your Telegram when a download is completed in qbittorren
 
      eg.``` C:\notify.py```
   3. Enter your **bot_token** and **chat_id** on the notify.py.
-     - Use BotFather to get your **bot_token** and **chat_id**
+     - Use BotFather to get your `**bot_token**` and `**chat_id**`
   4. Open Qbittorrent and go to Settings>Downloads scroll down and tick **Run on torrrent finished**
   5. Enter cmd.exe /C <notify.py location>
 
