@@ -3,6 +3,9 @@ Sends a notification to your Telegram when a download is completed in qbittorren
 
 ### pre-requisite:
 
+* Create a bot using BotFather in telegram
+
+  ``https://t.me/BotFather``
 * You will need to install python
 * Install requests from cmd
   
