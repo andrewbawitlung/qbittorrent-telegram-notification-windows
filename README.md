@@ -5,6 +5,7 @@ Sends a notification to your Telegram when a download is completed in qbittorren
 
 * You will need to install python
 * Install requests from cmd
+  
   ```pip install requests```
 
 ### Instructions:
